@@ -2,7 +2,7 @@
 title: "仮想スクロールとは何ぞや"
 emoji: "🫂"
 type: "tech"
-topics: ["nextjs", "仮想スクロール"]
+topics: ["フロントエンド", "仮想スクロール"]
 published: true
 ---
 
