@@ -3,7 +3,7 @@ title: "仮想スクロールとは何ぞや"
 emoji: "🫂"
 type: "tech"
 topics: ["nextjs", "仮想スクロール"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -50,4 +50,4 @@ https://qiita.com/neer_chan/items/5ff1a82ed2fe121026d5
 
 # 参考
 
-- https://qiita.com/neer_chan/items/5ff1a82ed2fe121026d5
+https://qiita.com/neer_chan/items/5ff1a82ed2fe121026d5
